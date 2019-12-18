@@ -1,0 +1,17 @@
+Project deconstruction | Personal GAN image creation model:
+
+Goal:
+  Feed a GAN a ton of renderings of abstract artwork I've created and then get it to create new images. Fine tune these images after until I get artwork that I like (extremely subjective).
+
+Data:
+  - Images to train from ~250;
+
+Interaction:
+  - "Seed" image for new image creation;
+
+
+
+TuTs for te BrA1n:
+  - https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3
+  - https://www.paperspace.com/console/jobs/jqtl5zat16r6/artifacts
+  - https://docs.paperspace.com/gradient/tutorials/training-and-deploying-an-ml-model-with-gradient-ui
